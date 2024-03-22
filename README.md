@@ -9,7 +9,7 @@ ToDo is a lightweight task management app designed and developed programmaticall
 1. **Sign In**: Use your credentials to sign in to your account.
 2. **Sign Up**: If you're new, create an account to start using the app.
 3. **Add Task**: Easily add new tasks to your to-do list.
-4. **Manage Tasks**: Edit or delete.
+4. **Manage Tasks**: Edit or Delete.
 5. **Logout**: Sign out from your account when done.
 
 ## Installation
@@ -24,13 +24,17 @@ ToDo is a lightweight task management app designed and developed programmaticall
 4. Once the project is open in Android Studio, connect your device or start an emulator.
 5. Click on the green play button in the toolbar to build and run the app on your device or emulator.
 
+## APK Download
+
+You can download the APK file [here](https://drive.google.com/file/d/168X2WY4YdLgRPrQl-inxKXYR8wkOjiGM/view?usp=sharing).
+
 ## License
 
 This project is licensed under the [GNU General Public License](LICENSE).
 
 ## Credits
 
-This app was developed by David M.
+This app was developed by [Your Name].
 
 ## Screenshots
 
@@ -39,4 +43,6 @@ This app was developed by David M.
 <img src="screenshots/addtask.png" width="200"> <img src="screenshots/addedtodo.png" width="200">
 
 <img src="screenshots/reset.png" width="200"> <img src="screenshots/logoutscreen.png" width="200">
+```
 
+Replace `[Your Name]` with your actual name.
