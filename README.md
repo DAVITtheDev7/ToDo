@@ -43,4 +43,3 @@ This app was developed by Davit M.
 <img src="screenshots/addtask.png" width="200"> <img src="screenshots/addedtodo.png" width="200">
 
 <img src="screenshots/reset.png" width="200"> <img src="screenshots/logoutscreen.png" width="200">
-```
