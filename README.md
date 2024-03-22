@@ -9,7 +9,7 @@ ToDo is a lightweight task management app designed and developed programmaticall
 1. **Sign In**: Use your credentials to sign in to your account.
 2. **Sign Up**: If you're new, create an account to start using the app.
 3. **Add Task**: Easily add new tasks to your to-do list.
-4. **Manage Tasks**: Edit, delete, or mark tasks as completed.
+4. **Manage Tasks**: Edit or delete.
 5. **Logout**: Sign out from your account when done.
 
 ## Installation
