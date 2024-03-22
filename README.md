@@ -34,9 +34,9 @@ This app was developed by David M.
 
 ## Screenshots
 
-![Splash Screen](screenshots/splash.png) ![Sign In Screen](screenshots/signin.png) ![Sign Up Screen](screenshots/signup.png)
+<img src="screenshots/splash.png" width="200"> <img src="screenshots/signin.png" width="200"> <img src="screenshots/signup.png" width="200">
 
-![Add Task Screen](screenshots/addtask.png) ![Added Todo Screen](screenshots/addedtodo.png)
+<img src="screenshots/addtask.png" width="200"> <img src="screenshots/addedtodo.png" width="200">
 
-![Reset Password Screen](screenshots/reset.png) ![Logout Screen](screenshots/logoutscreen.png)
-```
+<img src="screenshots/reset.png" width="200"> <img src="screenshots/logoutscreen.png" width="200">
+
