@@ -34,7 +34,7 @@ This project is licensed under the [GNU General Public License](LICENSE).
 
 ## Credits
 
-This app was developed by [Your Name].
+This app was developed by Davit M.
 
 ## Screenshots
 
@@ -44,5 +44,3 @@ This app was developed by [Your Name].
 
 <img src="screenshots/reset.png" width="200"> <img src="screenshots/logoutscreen.png" width="200">
 ```
-
-Replace `[Your Name]` with your actual name.
