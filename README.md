@@ -26,7 +26,7 @@ ToDo is a lightweight task management app designed and developed programmaticall
 
 ## APK Download
 
-You can download the APK file [here](https://drive.google.com/file/d/168X2WY4YdLgRPrQl-inxKXYR8wkOjiGM/view?usp=sharing).
+You can download the APK file [here](https://drive.google.com/file/d/1uqoz2LQG2wt0WQzwQp29Ek7Cx55dxMhE/view?usp=sharing).
 
 ## License
 
